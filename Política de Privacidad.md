@@ -41,7 +41,7 @@ Solo compartimos datos con servicios externos en los siguientes casos:
 
 ## 4. Seguridad
 
-Implementamos medidas de seguridad técnicas y organizativas para proteger tu información personal. Sin embargo, ningún sistema es 100% seguro, por lo que no podemos garantizar una protección absoluta.
+Implementamos medidas de seguridad técnicas y organizativas para proteger tu información personal. Toda la información que transmitimos entre la app y nuestros servidores está cifrada usando protocolos seguros HTTPS. Sin embargo, ningún sistema es 100% seguro y no podemos garantizar una protección absoluta.
 
 ## 5. Privacidad infantil
 
@@ -59,3 +59,7 @@ Como usuario, puedes:
 
 Si tienes preguntas sobre esta Política de Privacidad, contáctanos en:  
 📧 booksayappworld@gmail.com
+
+## 8. Retención de datos
+
+Conservamos tus datos personales mientras mantengas activa tu cuenta y por un período razonable después de la eliminación, para cumplir con obligaciones legales o resolver disputas. Los datos anónimos pueden ser usados indefinidamente para análisis y mejora del servicio.
