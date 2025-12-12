@@ -1,65 +1,87 @@
-# Política de Privacidad
+Política de Privacidad
 
-**Fecha de entrada en vigor:** 14 de julio de 2025
+Fecha de entrada en vigor: 14 de julio de 2025
 
-## 1. Información que recopilamos
+1. Información que recopilamos
 
-La App puede recopilar los siguientes datos personales:
+La aplicación El Impostor NO recopila, almacena ni procesa datos personales de los usuarios.
 
-- Nombre de usuario  
-- Dirección de correo electrónico  
-- Foto de perfil (opcional)  
-- Preferencias de libros, autores y categorías  
-- Historial de búsqueda y actividad  
-- Reseñas y comentarios escritos por el usuario
+En concreto, la app NO solicita ni recoge:
 
-Además, podemos recopilar datos de uso de la aplicación, como:
+Nombre de usuario
 
-- Tipo de dispositivo y sistema operativo  
-- Hora y duración de uso  
-- Errores o fallos (logs)
+Dirección de correo electrónico
 
-## 2. Uso de la información
+Fotografías
 
-Usamos la información recopilada para:
+Datos de ubicación
 
-- Crear y gestionar cuentas de usuario  
-- Personalizar la experiencia del usuario  
-- Guardar favoritos y preferencias  
-- Mostrar recomendaciones basadas en intereses  
-- Mejorar el funcionamiento de la aplicación  
-- Analizar estadísticas de uso (de forma anónima)
+Identificadores del dispositivo
 
-## 3. Compartición de información
+Información sensible de ningún tipo
 
-No vendemos ni compartimos tu información personal con terceros.  
-Solo compartimos datos con servicios externos en los siguientes casos:
+El uso de la aplicación es completamente local y no requiere registro.
 
-- Servicios de autenticación (como Google Sign-In)  
-- Almacenamiento en la nube seguro (para fotos o datos)  
-- Cuando sea requerido por ley
+2. Uso de la información
 
-## 4. Seguridad
+Dado que no se recopila información personal, la aplicación no utiliza datos del usuario para ningún propósito, incluyendo:
 
-Implementamos medidas de seguridad técnicas y organizativas para proteger tu información personal. Toda la información que transmitimos entre la app y nuestros servidores está cifrada usando protocolos seguros HTTPS. Sin embargo, ningún sistema es 100% seguro y no podemos garantizar una protección absoluta.
+Creación de cuentas
 
-## 5. Privacidad infantil
+Personalización basada en perfiles
 
-La app **no está dirigida a menores de 13 años**. Si descubrimos que hemos recopilado información personal de un menor, la eliminaremos inmediatamente.
+Análisis de comportamiento
 
-## 6. Derechos del usuario
+Publicidad
 
-Como usuario, puedes:
+Seguimiento
 
-- Acceder, actualizar o eliminar tus datos  
-- Solicitar la eliminación de tu cuenta  
-- Contactarnos para cualquier duda o inquietud
+Toda la lógica del juego se ejecuta exclusivamente en el dispositivo del usuario y los datos se descartan al cerrar la aplicación.
 
-## 7. Contacto
+3. Compartición de información
 
-Si tienes preguntas sobre esta Política de Privacidad, contáctanos en:  
-📧 booksayappworld@gmail.com
+La aplicación no comparte información con terceros, ya que:
 
-## 8. Retención de datos
+No recopila datos personales
 
-Conservamos tus datos personales mientras mantengas activa tu cuenta y por un período razonable después de la eliminación, para cumplir con obligaciones legales o resolver disputas. Los datos anónimos pueden ser usados indefinidamente para análisis y mejora del servicio.
+No se conecta a servidores externos
+
+No utiliza servicios de análisis (analytics)
+
+No muestra anuncios
+
+No integra redes sociales ni sistemas de autenticación externos
+
+4. Seguridad
+
+La aplicación no transmite información a través de internet, por lo que no se almacenan ni envían datos personales.
+
+Aun así, seguimos buenas prácticas de desarrollo para garantizar una experiencia segura y estable para los usuarios.
+
+5. Privacidad infantil
+
+La aplicación está destinada a un público general y no recopila información personal de menores de edad.
+
+Dado que no se almacenan datos, no existe riesgo de tratamiento de información infantil.
+
+6. Derechos del usuario
+
+Dado que la aplicación no recopila ni almacena datos personales, no es necesario que el usuario solicite:
+
+Acceso a datos
+
+Modificación de información
+
+Eliminación de datos
+
+No obstante, el usuario puede contactar con el desarrollador para cualquier duda relacionada con la privacidad.
+
+7. Contacto
+
+Si tienes preguntas sobre esta Política de Privacidad, puedes contactar con el desarrollador en:
+
+📧 Correo electrónico: booksayappworld@gmail.com
+
+8. Cambios en esta política
+
+Si en el futuro la aplicación incorporase nuevas funcionalidades que requieran el tratamiento de datos personales, esta Política de Privacidad será actualizada y publicada en esta misma página.
